@@ -16,29 +16,44 @@
 
 - 📫 How to reach me **<muhamad11wildan4n@gmail.com>**
 
-## <h3 align="center">Connect with me:</h3>
+## <div align="center">Connect with me:
 
-<div align="center">
+<p align="center">
+  <table align="center">
+    <tr align="center">
+       <td align="center" width="80">
+        <a href="https://www.linkedin.com/in/muhamad-wildan-nursyamsi/" target="_blank">
+          <img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/linkedin.svg" width="48" height="48" alt="LinkedIn"/>
+        </a>
+      </td>
+        <td align="center" width="80">
+        <a href="mailto:muhamad11wildan4n@gmail.com" target="_blank">
+          <img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/gmail.svg" width="48" height="48" alt="Gmail"/>
+        </a>
+      </td>
+      <td align="center" width="80">
+        <a href="https://wa.me/6287753518802" target="_blank">
+          <img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/whatsapp.svg" width="48" height="48" alt="WhatsApp"/>
+        </a>
+      </td>
+      <td align="center" width="80">
+        <a href="https://www.facebook.com/AbiPasundan1" target="_blank">
+          <img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/facebook.svg" width="48" height="48" alt="Facebook"/>
+        </a>
+      </td>
+      <td align="center" width="80">
+        <a href="https://messenger.com/t/AbiPasundan1" target="_blank">
+          <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/messenger.svg" width="48" height="48" alt="Messenger"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</p>
 
-<a align="center" href="https://www.linkedin.com/in/muhamad-wildan-nursyamsi/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhamad-wildan-nursyamsi/" height="30" width="40" />
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/yusufyusie/yusufyusie/blob/main/line.gif">
+  <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width: 100%; display: inline-block;"/>
 </a>
-    
-<a align="center" href="https://fb.com/abipasundan1">
-    <img align="center" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abipasundan1" height="30" width="40" />
-</a>
-
-<a align="center" href="https://instagram.com/muhamad.wldan" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhamad.wldan" height="30" width="40" />
-</a>
-
-<a align="center" href="https://medium.com/@muhamad11wildan4n" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@muhamad11wildan4n" height="30" width="40" />
-</a>
-
-<a align="center" href="https://www.leetcode.com/abipasundan" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abipasundan" height="30" width="40" />
-</a>
+</div>
 
 <div align="center">
 
@@ -54,7 +69,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![kde](https://img.shields.io/badge/kde-FCC624?style=for-the-badge&logo=kde&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-19B6B5?style=for-the-badge&logo=Swagger&logoColor=F0F2F5)
 
 </div>
-
 
 <div>
 

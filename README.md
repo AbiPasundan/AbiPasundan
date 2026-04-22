@@ -19,14 +19,26 @@
 ## <h3 align="center">Connect with me:</h3>
 
 <div align="center">
-    <p align="center">
-    <a href="https://www.linkedin.com/in/muhamad-wildan-nursyamsi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhamad-wildan-nursyamsi/" height="30" width="40" /></a>
-    <a href="https://fb.com/abipasundan1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abipasundan1" height="30" width="40" /></a>
-    <a href="https://instagram.com/muhamad.wldan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhamad.wldan" height="30" width="40" /></a>
-    <a href="https://medium.com/@muhamad11wildan4n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@muhamad11wildan4n" height="30" width="40" /></a>
-    <a href="https://www.leetcode.com/abipasundan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abipasundan" height="30" width="40" /></a>
-    </p>
-</div>
+
+<a align="center" href="https://www.linkedin.com/in/muhamad-wildan-nursyamsi/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhamad-wildan-nursyamsi/" height="30" width="40" />
+</a>
+    
+<a align="center" href="https://fb.com/abipasundan1">
+    <img align="center" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abipasundan1" height="30" width="40" />
+</a>
+
+<a align="center" href="https://instagram.com/muhamad.wldan" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhamad.wldan" height="30" width="40" />
+</a>
+
+<a align="center" href="https://medium.com/@muhamad11wildan4n" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@muhamad11wildan4n" height="30" width="40" />
+</a>
+
+<a align="center" href="https://www.leetcode.com/abipasundan" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abipasundan" height="30" width="40" />
+</a>
 
 <div align="center">
 

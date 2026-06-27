@@ -1,85 +1,88 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Hello+World;Hallo+Dunia;" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Fullstack+Web+Developer;React+TypeScript+Go+Gin+Express" />
-</p>
-
-<h1 align="center">👋 Hey there, I'm <span style="color:#00BFFF">Wildan Nursyamsi</span></h1>
-<h3 align="center">🚀 Fullstack Developer (React, Go)</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abipasundan&label=Profile%20views&color=0e75b6&style=flat" alt="abipasundan" /> </p>
-
-- 👨‍💻 All of my projects are available at [https://wildan-nursyamsi.netlify.app/](https://wildan-nursyamsi.netlify.app/)
-
-- 📝 I regularly write articles on [https://medium.com/@muhamad11wildan4n](https://medium.com/@muhamad11wildan4n)
-
-- 📫 How to reach me **<muhamad11wildan4n@gmail.com>**
-
-## <div align="center">Connect with me:
-
-<p align="center">
-  <table align="center">
-    <tr align="center">
-       <td align="center" width="80">
-        <a href="https://www.linkedin.com/in/muhamad-wildan-nursyamsi/" target="_blank">
-          <img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/linkedin.svg" width="48" height="48" alt="LinkedIn"/>
-        </a>
-      </td>
-        <td align="center" width="80">
-        <a href="mailto:muhamad11wildan4n@gmail.com" target="_blank">
-          <img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/gmail.svg" width="48" height="48" alt="Gmail"/>
-        </a>
-      </td>
-      <td align="center" width="80">
-        <a href="https://wa.me/6287753518802" target="_blank">
-          <img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/whatsapp.svg" width="48" height="48" alt="WhatsApp"/>
-        </a>
-      </td>
-      <td align="center" width="80">
-        <a href="https://www.facebook.com/AbiPasundan1" target="_blank">
-          <img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/facebook.svg" width="48" height="48" alt="Facebook"/>
-        </a>
-      </td>
-      <td align="center" width="80">
-        <a href="https://messenger.com/t/AbiPasundan1" target="_blank">
-          <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/messenger.svg" width="48" height="48" alt="Messenger"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-</p>
-
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/yusufyusie/yusufyusie/blob/main/line.gif">
-  <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width: 100%; display: inline-block;"/>
-</a>
-</div>
-
-<div align="center">
-
-## Tech Stack
-
-### Languages & Frameworks
-
-<!-- ![NodeJs](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white) -->
-![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=323330) ![NodeJs](https://img.shields.io/badge/NodeJs-F7DF1E?style=for-the-badge&logo=NodeJs&logoColor=323330) ![bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=6F42C1) ![tailwindcss](https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=0F172A) ![Go](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=00A29C) ![Gin](https://img.shields.io/badge/gin-00ADD8?style=for-the-badge&logo=gin&logoColor=343A40) ![express](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=333333) ![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=React&logoColor=282C34)
-
-### Tools & Platforms
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![kde](https://img.shields.io/badge/kde-FCC624?style=for-the-badge&logo=kde&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-19B6B5?style=for-the-badge&logo=Swagger&logoColor=F0F2F5)
-
-</div>
-
-<div>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AbiPasundan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ahmed's GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AbiPasundan&theme=tokyonight&hide_border=true" alt="Ahmed's Streak Stats" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Wildan+Nursyamsi+%F0%9F%91%8B;Fullstack+Developer;React+%C2%B7+TypeScript+%C2%B7+Go+%C2%B7+PostgreSQL" alt="Typing animation introducing Wildan Nursyamsi" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbiPasundan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=AbiPasundan&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <a href="https://wildan-nursyamsi.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/AbiPasundan?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-Explore-238636?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projects" />
+  </a>
+  <a href="mailto:muhamad11wildan4n@gmail.com">
+    <img src="https://img.shields.io/badge/Contact-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
-</div>
+---
+
+## `whoami` 👨‍💻
+
+I'm **Wildan Nursyamsi**, a developer focused on building practical web applications with modern frontend and backend technologies.
+
+I enjoy turning ideas into working software, exploring how different parts of an application fit together, and continuously improving my development workflow.
+
+- 🔭 **Featured project:** [Mosque Tahfidz Management System](https://github.com/AbiPasundan/mosque-tahfidz-management)
+- 🧩 **Development focus:** React, TypeScript, Go, and PostgreSQL
+- 🌱 **Current interests:** software engineering, open source, and developer tools
+- 📝 **Writing:** [Medium](https://medium.com/@muhamad11wildan4n)
+- 🌐 **Portfolio:** [wildan-nursyamsi.netlify.app](https://wildan-nursyamsi.netlify.app/)
+
+## `featured_projects` 🚀
+
+### 01. Mosque Tahfidz Management System
+
+A web application designed to support the management of Quran memorization programs at mosques.
+
+**Tech stack**
+
+- **Frontend:** React, TypeScript, Tailwind CSS, daisyUI
+- **Backend:** Go, Fiber, PostgreSQL
+
+The project has separate frontend and backend repositories. The frontend repository describes responsive design, PWA support, and offline functionality.
+
+<p>
+  <a href="https://github.com/AbiPasundan/mosque-tahfidz-management">Frontend Repository →</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/AbiPasundan/backend-mosque-tahfidz-management">Backend Repository →</a>
+</p>
+
+### 02. Personal Portfolio
+
+A personal portfolio website built with React and Tailwind CSS, featuring responsive layouts, dark mode, and a project showcase.
+
+<p>
+  <a href="https://github.com/AbiPasundan/portfolio">View Source Code →</a>
+  &nbsp;·&nbsp;
+  <a href="https://wildan-nursyamsi.netlify.app/">Visit Website →</a>
+</p>
+
+## `tech_stack` 🛠️
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,go,postgres,tailwind,git,github&theme=dark" alt="React, TypeScript, Go, PostgreSQL, Tailwind CSS, Git, and GitHub icons" />
+</p>
+
+## `beyond_the_code` 🌱
+
+- Exploring better ways to design, build, and maintain web applications.
+- Learning through hands-on projects and technical documentation.
+- Interested in open-source collaboration and sharing knowledge.
+
+## `connect` 🤝
+
+<p align="center">
+  <a href="https://medium.com/@muhamad11wildan4n">
+    <img src="https://img.shields.io/badge/Medium-Read_Articles-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  <a href="https://www.linkedin.com/in/muhamad-wildan-nursyamsi/">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn%20Learning-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn" />
+  </a>
+  <a href="mailto:muhamad11wildan4n@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Building, learning, and improving — one commit at a time.</i>
+</p>
